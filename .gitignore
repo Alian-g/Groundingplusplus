@@ -1,0 +1,12 @@
+dataset/
+output/
+*.pth
+*.pth.tar
+*.pt
+__pycache__/
+*.pyc
+groundingdino.egg-info/
+build/
+mgit/
+bert-base-uncased/
+groundingdino/weights/
